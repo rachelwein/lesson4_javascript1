@@ -12,7 +12,7 @@ Rachel Weinstock
 ### Project Description:
 In lesson 4 assignment, I stated, inputed and modified variables in the HTML file. I was able to use the getElementById() method. I made changes to the monthly expense calculator application in order for it to display the percentage of the total expenses for each category.  
 ### View Project:
-https://rachelwein.github.io/lesson4_javascript1/
+
 
 ### Lessons Learned in the Assignment:
 1. JavaScript allows for interactivity and improves the design, creates cookies, and validates forms of web pages. 
